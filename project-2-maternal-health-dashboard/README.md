@@ -1,6 +1,6 @@
 # Project 2 — Maternal Fat Ultrasound Measurements & Impact on Gestational Outcomes
 
-**Status:** In Progress
+**Status:** Complete — [Live Dashboard Gallery](https://pavishya.netlify.app/maternal-health-gallery.html)
 **Domain:** Maternal & Perinatal Health
 **Tools:** PostgreSQL · Power BI · DAX
 **Dataset:** [PhysioNet — Maternal fat ultrasound measurement and nutritional assessment during pregnancy (v1.0.0)](https://physionet.org/content/maternal-ultrasound-nutrition/1.0.0/)
@@ -70,14 +70,32 @@ All tables relate 1:1 on `case_id`, so in Power BI they're modeled as a single-d
 
 ---
 
+## Dashboards
+
+The final Power BI workbook (`Maternalhealth_Projectdashboard_Final.pbix`) ships 7 dashboards covering 272 pregnancy cases:
+
+| Dashboard | Focus |
+|---|---|
+| Demographics Analysis | Patient/follow-up counts, BMI status shift, ethnicity distribution, birth weight by maternal age |
+| Dietary Habits and Hospital Outcomes | Meal/diet habits vs. GDM rate, delivery mode, hospital stay |
+| Medical History and Lifestyle | Hypertension, tobacco, alcohol, and diabetes treatment patterns by ethnicity and age |
+| Anthropometry and Pregnancy History | Trimester-by-trimester weight gain, miscarriage rate, first-born status by age group |
+| Lab Test and Vitals | Infectious disease screening rates, glucose by trimester/test type, GDM vs. non-GDM comparison |
+| Predictive Drivers of Newborn Weight | Decomposition tree ranking inputs (systolic BP, visceral/subcutaneous fat, glucose) by impact on birth weight |
+| Newborn and Ultrasound | Newborn weight/health status, gestational age, fetal weight percentile distribution |
+
+See the [live dashboard gallery](https://pavishya.netlify.app/maternal-health-gallery.html) for full screenshots and key insights per dashboard.
+
+---
+
 ## Sprint Roadmap
 
-| Sprint | Deliverables |
-|---|---|
-| **Sprint 1** | Data definition, data staging, proposed schema, transformation specs for 2 tables |
-| **Sprint 2** | Transformation spec document, staging `.sql` file, finalized model |
-| **Sprint 3** | Consolidated cleaning steps (SQL) for the selected schema, final `.sql` file, final `.bak` file |
-| **Sprint 4** | Load data into Power BI, build DAX measures, complete EDA, build and consolidate dashboards |
+| Sprint | Deliverables | Status |
+|---|---|---|
+| **Sprint 1** | Data definition, data staging, proposed schema, transformation specs for 2 tables | Complete |
+| **Sprint 2** | Transformation spec document, staging `.sql` file, finalized model | Complete |
+| **Sprint 3** | Consolidated cleaning steps (SQL) for the selected schema, final `.sql` file, final `.bak` file | Complete |
+| **Sprint 4** | Load data into Power BI, build DAX measures, complete EDA, build and consolidate dashboards | Complete |
 
 ---
 
