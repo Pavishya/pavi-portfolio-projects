@@ -10,8 +10,8 @@ This repository contains three end-to-end analytics projects demonstrating depth
 
 | Project | Domain | Tools |
 |---|---|---|
-| [project-1-healthcare-readmission](./project-1-healthcare-readmission) | Healthcare | SQL · Python · Power BI |
-| [project-2-finance-dashboard](./project-2-finance-dashboard) | Finance | SQL · Python · Tableau |
+| [project-1-healthcare-readmission](./project-1-healthcare-readmission) | Healthcare | SQL · Python · Tableau |
+| [project-2-maternal-health-dashboard](./project-2-maternal-health-dashboard) | Maternal & Perinatal Health | PostgreSQL · Power BI · DAX |
 | [project-3-data-quality-automation](./project-3-data-quality-automation) | QA / Testing | Python · pytest |
 
 ---
@@ -27,10 +27,9 @@ cd project-1-healthcare-readmission
 # Download UCI dataset to data/diabetic_readmission.csv first
 jupyter notebook python/01_eda.ipynb
 
-# Project 2 — Finance
-cd project-2-finance-dashboard
-jupyter notebook python/00_generate_data.ipynb  # generates data
-jupyter notebook python/01_eda.ipynb
+# Project 2 — Maternal Health (in progress)
+cd project-2-maternal-health-dashboard
+# See README for ETL pipeline, data model, and sprint roadmap
 
 # Project 3 — Tests
 cd project-3-data-quality-automation
