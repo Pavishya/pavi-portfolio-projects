@@ -1,0 +1,528 @@
+[
+  {
+    "claim_id": "CLAIM00001",
+    "member_id": "MBR1001",
+    "provider_npi": "1786579303",
+    "provider_name": "Rodriguez, Figueroa and Sanchez Medical Group",
+    "total_charge": "467.79",
+    "diagnosis_code": "M545",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "71046",
+        "charge": "102.24",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 2,
+        "procedure_code": "80053",
+        "charge": "209.46",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 3,
+        "procedure_code": "12001",
+        "charge": "156.09",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CLAIM00002",
+    "member_id": "MBR1000",
+    "provider_npi": "1786579303",
+    "provider_name": "Rodriguez, Figueroa and Sanchez Medical Group",
+    "total_charge": "66.98",
+    "diagnosis_code": "K219",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "85025",
+        "charge": "66.98",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CLAIM00003",
+    "member_id": "MBR1000",
+    "provider_npi": "1141394725",
+    "provider_name": "Baldwin Ltd Medical Group",
+    "total_charge": "366.15",
+    "diagnosis_code": "I10",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "12001",
+        "charge": "179.37",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 2,
+        "procedure_code": "36415",
+        "charge": "23.84",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 3,
+        "procedure_code": "99213",
+        "charge": "162.94",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CLAIM00004",
+    "member_id": "MBR1006",
+    "provider_npi": "1538662058",
+    "provider_name": "Blair PLC Medical Group",
+    "total_charge": "267.19",
+    "diagnosis_code": "M545",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "80053",
+        "charge": "188.61",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 2,
+        "procedure_code": "93000",
+        "charge": "78.58",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CLAIM00005",
+    "member_id": "MBR1001",
+    "provider_npi": "1538662058",
+    "provider_name": "Blair PLC Medical Group",
+    "total_charge": "153.40",
+    "diagnosis_code": "M545",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "71046",
+        "charge": "130.36",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 2,
+        "procedure_code": "36415",
+        "charge": "23.04",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CLAIM00006",
+    "member_id": "MBR1001",
+    "provider_npi": "1538662058",
+    "provider_name": "Blair PLC Medical Group",
+    "total_charge": "355.69",
+    "diagnosis_code": "E119",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "93000",
+        "charge": "95.21",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 2,
+        "procedure_code": "99214",
+        "charge": "177.29",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 3,
+        "procedure_code": "85025",
+        "charge": "83.19",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CLAIM00007",
+    "member_id": "MBR1003",
+    "provider_npi": "1786579303",
+    "provider_name": "Rodriguez, Figueroa and Sanchez Medical Group",
+    "total_charge": "193.36",
+    "diagnosis_code": "J0190",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "71046",
+        "charge": "112.67",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 2,
+        "procedure_code": "93000",
+        "charge": "80.69",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CLAIM00008",
+    "member_id": "MBR1003",
+    "provider_npi": "1538662058",
+    "provider_name": "Blair PLC Medical Group",
+    "total_charge": "471.73",
+    "diagnosis_code": "M545",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "99214",
+        "charge": "205.46",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 2,
+        "procedure_code": "80053",
+        "charge": "201.37",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 3,
+        "procedure_code": "85025",
+        "charge": "64.90",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CLAIM00009",
+    "member_id": "MBR1004",
+    "provider_npi": "1141394725",
+    "provider_name": "Baldwin Ltd Medical Group",
+    "total_charge": "406.20",
+    "diagnosis_code": "M545",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "93000",
+        "charge": "104.50",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 2,
+        "procedure_code": "99213",
+        "charge": "136.45",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 3,
+        "procedure_code": "99213",
+        "charge": "165.25",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CLAIM00010",
+    "member_id": "MBR1004",
+    "provider_npi": "1786579303",
+    "provider_name": "Rodriguez, Figueroa and Sanchez Medical Group",
+    "total_charge": "82.44",
+    "diagnosis_code": "M545",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "93000",
+        "charge": "82.44",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CLAIM00011",
+    "member_id": "MBR1006",
+    "provider_npi": "1391924001",
+    "provider_name": "James Group Medical Group",
+    "total_charge": "96.98",
+    "diagnosis_code": "F411",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "71046",
+        "charge": "96.98",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CLAIM00012",
+    "member_id": "MBR1004",
+    "provider_npi": "1391924001",
+    "provider_name": "James Group Medical Group",
+    "total_charge": "642.13",
+    "diagnosis_code": "E119",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "90791",
+        "charge": "228.96",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 2,
+        "procedure_code": "80053",
+        "charge": "200.38",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 3,
+        "procedure_code": "99214",
+        "charge": "212.79",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CLAIM00013",
+    "member_id": "MBR1002",
+    "provider_npi": "1141394725",
+    "provider_name": "Baldwin Ltd Medical Group",
+    "total_charge": "501.18",
+    "diagnosis_code": "K219",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "90791",
+        "charge": "247.71",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 2,
+        "procedure_code": "90791",
+        "charge": "230.53",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 3,
+        "procedure_code": "36415",
+        "charge": "22.94",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CLAIM00014",
+    "member_id": "MBR1000",
+    "provider_npi": "1786579303",
+    "provider_name": "Rodriguez, Figueroa and Sanchez Medical Group",
+    "total_charge": "494.11",
+    "diagnosis_code": "E119",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "12001",
+        "charge": "202.56",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 2,
+        "procedure_code": "93000",
+        "charge": "78.90",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 3,
+        "procedure_code": "90791",
+        "charge": "212.65",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CLAIM00015",
+    "member_id": "MBR1004",
+    "provider_npi": "1141394725",
+    "provider_name": "Baldwin Ltd Medical Group",
+    "total_charge": "543.24",
+    "diagnosis_code": "I10",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "99214",
+        "charge": "218.53",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 2,
+        "procedure_code": "71046",
+        "charge": "132.08",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 3,
+        "procedure_code": "12001",
+        "charge": "192.63",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CLAIM00016",
+    "member_id": "MBR1005",
+    "provider_npi": "1141394725",
+    "provider_name": "Baldwin Ltd Medical Group",
+    "total_charge": "527.84",
+    "diagnosis_code": "J0190",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "12001",
+        "charge": "214.29",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 2,
+        "procedure_code": "93000",
+        "charge": "92.10",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      },
+      {
+        "line_number": 3,
+        "procedure_code": "99214",
+        "charge": "221.45",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CLAIM00017",
+    "member_id": "MBR1003",
+    "provider_npi": "1786579303",
+    "provider_name": "Rodriguez, Figueroa and Sanchez Medical Group",
+    "total_charge": "179.28",
+    "diagnosis_code": "M545",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "99214",
+        "charge": "179.28",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  },
+  {
+    "claim_id": "CLAIM00018",
+    "member_id": "MBR1001",
+    "provider_npi": "1141394725",
+    "provider_name": "Baldwin Ltd Medical Group",
+    "total_charge": "29.20",
+    "diagnosis_code": "I10",
+    "place_of_service": "11",
+    "service_lines": [
+      {
+        "line_number": 1,
+        "procedure_code": "36415",
+        "charge": "29.20",
+        "units": 1,
+        "service_date": "20240610",
+        "diagnosis_pointer": "1"
+      }
+    ]
+  }
+]

@@ -14,6 +14,7 @@ build/
 
 # pytest output (generated)
 project-3-data-quality-automation/reports/*.html
+project-4-edi-claims-validation/reports/*.html
 
 # Large raw datasets — download separately (see README)
 project-1-healthcare-readmission/data/diabetic_readmission.csv

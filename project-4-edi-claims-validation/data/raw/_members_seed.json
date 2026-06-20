@@ -1,0 +1,238 @@
+{
+  "members": [
+    {
+      "member_id": "MBR1000",
+      "subscriber_id": "MBR1000",
+      "first_name": "MARK",
+      "last_name": "HILL",
+      "dob": "19511201",
+      "gender": "M",
+      "address": "18196 Anthony Forge",
+      "city": "New Carolyn",
+      "state": "OH",
+      "zip": "26563",
+      "group_number": "GRP100",
+      "plan_code": "PPO500",
+      "coverage_effective_date": "20240101",
+      "maintenance_type": "030",
+      "relationship_code": "18"
+    },
+    {
+      "member_id": "MBR1001",
+      "subscriber_id": "MBR1001",
+      "first_name": "MIKE",
+      "last_name": "BARNES",
+      "dob": "19910222",
+      "gender": "M",
+      "address": "402 Peterson Drives Apt. 511",
+      "city": "Davisstad",
+      "state": "PA",
+      "zip": "35172",
+      "group_number": "GRP200",
+      "plan_code": "HMO250",
+      "coverage_effective_date": "20240101",
+      "maintenance_type": "030",
+      "relationship_code": "18"
+    },
+    {
+      "member_id": "MBR1002",
+      "subscriber_id": "MBR1002",
+      "first_name": "RENEE",
+      "last_name": "HERRERA",
+      "dob": "19921016",
+      "gender": "F",
+      "address": "84959 Janet Cape Apt. 413",
+      "city": "South Joshuastad",
+      "state": "GA",
+      "zip": "49021",
+      "group_number": "GRP100",
+      "plan_code": "EPO100",
+      "coverage_effective_date": "20240101",
+      "maintenance_type": "030",
+      "relationship_code": "18"
+    },
+    {
+      "member_id": "MBR1003",
+      "subscriber_id": "MBR1003",
+      "first_name": "HENRY",
+      "last_name": "MILES",
+      "dob": "19890503",
+      "gender": "M",
+      "address": "283 Steven Groves",
+      "city": "Lake Mark",
+      "state": "WI",
+      "zip": "07832",
+      "group_number": "GRP200",
+      "plan_code": "PPO500",
+      "coverage_effective_date": "20240101",
+      "maintenance_type": "030",
+      "relationship_code": "18"
+    },
+    {
+      "member_id": "MBR1004",
+      "subscriber_id": "MBR1004",
+      "first_name": "DARYL",
+      "last_name": "STEWART",
+      "dob": "19520430",
+      "gender": "M",
+      "address": "39537 Wilkerson Row Suite 242",
+      "city": "Lake Anna",
+      "state": "KS",
+      "zip": "98413",
+      "group_number": "GRP100",
+      "plan_code": "HMO250",
+      "coverage_effective_date": "20240101",
+      "maintenance_type": "030",
+      "relationship_code": "18"
+    },
+    {
+      "member_id": "MBR1005",
+      "subscriber_id": "MBR1005",
+      "first_name": "KEVIN",
+      "last_name": "ROSS",
+      "dob": "20020717",
+      "gender": "M",
+      "address": "87101 Courtney Turnpike",
+      "city": "Carlsonfurt",
+      "state": "MS",
+      "zip": "78605",
+      "group_number": "GRP200",
+      "plan_code": "EPO100",
+      "coverage_effective_date": "20240101",
+      "maintenance_type": "030",
+      "relationship_code": "18"
+    },
+    {
+      "member_id": "MBR1006",
+      "subscriber_id": "MBR1006",
+      "first_name": "ZACHARY",
+      "last_name": "MADDOX",
+      "dob": "19810226",
+      "gender": "M",
+      "address": "184 Rodriguez Mews",
+      "city": "South Aaron",
+      "state": "VA",
+      "zip": "94830",
+      "group_number": "GRP100",
+      "plan_code": "PPO500",
+      "coverage_effective_date": "20240101",
+      "maintenance_type": "024",
+      "relationship_code": "18"
+    },
+    {
+      "member_id": "MBR1007",
+      "subscriber_id": "MBR1007",
+      "first_name": "DENNIS",
+      "last_name": "WHITE",
+      "dob": "19790702",
+      "gender": "M",
+      "address": "489 Eric Track",
+      "city": "New Stephanie",
+      "state": "NC",
+      "zip": "00575",
+      "group_number": "GRP200",
+      "plan_code": "HMO250",
+      "coverage_effective_date": "20240101",
+      "maintenance_type": "001",
+      "relationship_code": "18"
+    }
+  ],
+  "providers": [
+    {
+      "npi": "1786579303",
+      "name": "Rodriguez, Figueroa and Sanchez Medical Group",
+      "address": "181 Johnson Course",
+      "city": "East William",
+      "state": "AK",
+      "zip": "74064"
+    },
+    {
+      "npi": "1141394725",
+      "name": "Baldwin Ltd Medical Group",
+      "address": "79402 Peterson Drives Apt. 511",
+      "city": "Davisstad",
+      "state": "PA",
+      "zip": "35172"
+    },
+    {
+      "npi": "1538662058",
+      "name": "Blair PLC Medical Group",
+      "address": "1849 Ray Squares",
+      "city": "North Donnaport",
+      "state": "CO",
+      "zip": "31013"
+    },
+    {
+      "npi": "1391924001",
+      "name": "James Group Medical Group",
+      "address": "55341 Amanda Gardens Apt. 764",
+      "city": "Lake Mark",
+      "state": "WI",
+      "zip": "07832"
+    }
+  ],
+  "cpt_codes": [
+    {
+      "code": "99213",
+      "description": "Office visit, established patient",
+      "charge_min": 125,
+      "charge_max": 175
+    },
+    {
+      "code": "99214",
+      "description": "Office visit, detailed",
+      "charge_min": 175,
+      "charge_max": 225
+    },
+    {
+      "code": "80053",
+      "description": "Comprehensive metabolic panel",
+      "charge_min": 180,
+      "charge_max": 220
+    },
+    {
+      "code": "85025",
+      "description": "Complete blood count",
+      "charge_min": 60,
+      "charge_max": 90
+    },
+    {
+      "code": "71046",
+      "description": "Chest X-ray, 2 views",
+      "charge_min": 90,
+      "charge_max": 140
+    },
+    {
+      "code": "93000",
+      "description": "Electrocardiogram",
+      "charge_min": 75,
+      "charge_max": 110
+    },
+    {
+      "code": "90791",
+      "description": "Psychiatric diagnostic evaluation",
+      "charge_min": 200,
+      "charge_max": 280
+    },
+    {
+      "code": "36415",
+      "description": "Routine venipuncture",
+      "charge_min": 15,
+      "charge_max": 30
+    },
+    {
+      "code": "12001",
+      "description": "Simple wound repair",
+      "charge_min": 150,
+      "charge_max": 220
+    }
+  ],
+  "icd10_codes": [
+    "E119",
+    "I10",
+    "J0190",
+    "M545",
+    "K219",
+    "F411"
+  ]
+}
